@@ -1,0 +1,15 @@
+#subscribe {
+  padding-left: "50%";
+}
+
+#adminSection {
+  padding: 15px;
+  border: 1px solid #34495e;
+  background-color: white;
+  border-radius: 20px;
+}
+
+#bodySection {
+  border: 1px solid black;
+  border-radius: 20px;
+}
